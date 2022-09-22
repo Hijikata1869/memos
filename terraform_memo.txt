@@ -1,1 +1,1 @@
-terraformerを導入
+ptaに実際にterraformを導入するにあたり、さらっと実践Terraformを復習する
