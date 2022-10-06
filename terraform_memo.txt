@@ -1,2 +1,1 @@
-引き続きterraformのv0.12からv0.13へのアップデート作業を行う
-
+terraformerの--path-patternオプションを使ってみる
