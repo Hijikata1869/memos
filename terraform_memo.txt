@@ -1,1 +1,1 @@
-terraformerの--path-patternオプションを使ってみる
+terraformerの--path-pattern続き
