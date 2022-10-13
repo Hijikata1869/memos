@@ -1,1 +1,1 @@
-terraformerの--path-pattern続き
+--path-petternでデフォルトのディレクトリ構成ではないterraformer importを実行
