@@ -1,1 +1,2 @@
 --path-petternでデフォルトのディレクトリ構成ではないterraformer importを実行
+-filterオプションを使いこなせないと本番環境にterraformを導入するとき苦労しそう
