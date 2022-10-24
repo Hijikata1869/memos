@@ -1,1 +1,1 @@
-terraformのバージョンを1.2.5にした状態でterraformerを使う
+リポジトリにpushできない問題を解消する
