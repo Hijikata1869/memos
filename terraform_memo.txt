@@ -1,1 +1,1 @@
-terraformのversionをv1.2.5の状態でterraformerを使用
+terraformerで作成したtfファイルのterraformのバージョンをアップしていく
