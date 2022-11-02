@@ -1,1 +1,1 @@
-terraformerの使い方を深掘りする
+init.tfの作成及びterraform initの実行
