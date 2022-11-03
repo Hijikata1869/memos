@@ -1,1 +1,1 @@
-init.tfの作成及びterraform initの実行
+terraformerで既存AWSリソースのコード化を進めていく
