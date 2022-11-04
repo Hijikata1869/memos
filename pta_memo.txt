@@ -1,1 +1,1 @@
-terraformerで既存AWSリソースのコード化を進めていく
+terraformerでimportしたコードの修正作業
