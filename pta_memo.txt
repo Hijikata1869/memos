@@ -1,1 +1,1 @@
-terraformerでimportしたコードの修正作業
+引き続きコードの修正作業
