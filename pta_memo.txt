@@ -1,1 +1,1 @@
-引き続きコードの修正作業
+ecs_task_definition.tfのcontainer_definitionsを修正
