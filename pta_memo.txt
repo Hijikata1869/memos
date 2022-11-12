@@ -1,1 +1,1 @@
-引き続きecs_task_definition.tfの修正作業
+container_definitionsの値をjsonで記述する
