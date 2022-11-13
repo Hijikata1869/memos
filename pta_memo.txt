@@ -1,1 +1,1 @@
-container_definitionsの値をjsonで記述する
+jsonで記述したコンテナ定義のDockerイメージが常に最新版になるように実装する
