@@ -1,1 +1,1 @@
-ローカルのterraformのコードと、本番環境の差異をなくす
+nginxを用いないrailsとreactのみの開発環境を整える
