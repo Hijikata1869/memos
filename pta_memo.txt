@@ -1,1 +1,1 @@
-引き続きpendingの修正
+api側のDockerfileを修正
