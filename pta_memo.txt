@@ -1,1 +1,1 @@
-staging用のdockerfileの記述
+developmentとstagingの切り分けが完了。404に移行
