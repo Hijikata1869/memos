@@ -1,1 +1,2 @@
-ユーザーのブックマークページでレンダリングが複数回行われてしまっている問題を修正したい
+current_users_controllerのshowアクションからcurrent_user_likesを切り分けたい
+引き続き切り分け作業
