@@ -1,2 +1,3 @@
 current_users_controllerのshowアクションからcurrent_user_likesを切り分けたい
 引き続き切り分け作業
+training_logのAPI設計を考えている。それぞれの種目の最新の１件を返すようにしてUIを改善したい
