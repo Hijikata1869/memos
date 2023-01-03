@@ -1,1 +1,1 @@
-引き続きAjaxの修正
+TrainingLogs.jsxのcurrentUserのLikesを修正していく
