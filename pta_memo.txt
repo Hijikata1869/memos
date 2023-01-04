@@ -1,1 +1,1 @@
-TrainingLogs.jsxのcurrentUserのLikesを修正していく
+apiの修正完了。デプロイ
