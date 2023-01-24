@@ -1,1 +1,1 @@
-Questins.jsxのLinkコンポーネントをreact-router-domのものからmaterial-uiのコンポーネントに置き換えてもいいかも
+Linkはmaterial-uiのボタンに変更
