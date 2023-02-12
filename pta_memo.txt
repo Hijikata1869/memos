@@ -1,1 +1,1 @@
-railsに配列で引数を渡す方法を調査
+twitterやfacebookのOGPを実装する方法を調査
