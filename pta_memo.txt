@@ -1,1 +1,1 @@
-appendchildではない方法でmetaタグをheadタグの中に挿入する
+create react appで作成したアプリのESlintの設定の仕方を調べたい
