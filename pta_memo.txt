@@ -1,1 +1,1 @@
-create react appで作成したアプリのESlintの設定の仕方を調べたい
+試しにinclude ActionView::Helpers::AssetTagHelper無しでrender file:を用いたindex.html操作の実装をしてみてだめだったらinclude ActionView::Helpers::AssetTagHelperを用いた実装に切り替えてみようと思う
