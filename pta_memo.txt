@@ -1,1 +1,1 @@
-試しにinclude ActionView::Helpers::AssetTagHelper無しでrender file:を用いたindex.html操作の実装をしてみてだめだったらinclude ActionView::Helpers::AssetTagHelperを用いた実装に切り替えてみようと思う
+railsのコントローラーのrender fileメソッドの挙動について確認する
