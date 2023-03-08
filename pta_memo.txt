@@ -1,1 +1,2 @@
-まずは開発環境でreactとnginxを分離した開発環境を立ち上げてみる
+REACT_APP_SERVER_URL=http://localhost:3000/api/v1をREACT_APP_SERVER_URL=http://localhost:80/api/v1と書き換えてnginxmのポートにリクエストを送ればいいのでは。あとは、nginx側の設定でRailsにリクエストが流れるような設定を
+.env.developmentの話
