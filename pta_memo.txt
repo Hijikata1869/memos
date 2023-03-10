@@ -1,2 +1,1 @@
-REACT_APP_SERVER_URL=http://localhost:3000/api/v1をREACT_APP_SERVER_URL=http://localhost:80/api/v1と書き換えてnginxmのポートにリクエストを送ればいいのでは。あとは、nginx側の設定でRailsにリクエストが流れるような設定を
-.env.developmentの話
+twitter共有の文言やURLは動的にできている。トレーニング記録に画像があるわけではない。以下の点でnetlifyでなんとか動的にするメリットもあまりない気がする。画像が表示されない問題だけはどうにかしたい。
